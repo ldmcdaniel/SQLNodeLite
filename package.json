@@ -1,0 +1,22 @@
+{
+  "name": "squnodelite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldmcdaniel/SQLNodeLite.git"
+  },
+  "author": "Lucas McDaniel <ldmcdaniel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldmcdaniel/SQLNodeLite/issues"
+  },
+  "homepage": "https://github.com/ldmcdaniel/SQLNodeLite#readme",
+  "dependencies": {
+    "sqlite3": "^3.0.10"
+  }
+}
