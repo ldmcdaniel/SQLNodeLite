@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ldmcdaniel/SQLNodeLite#readme",
   "dependencies": {
-    "sqlite3": "^3.0.10"
+    "pg": "^4.4.1"
   }
 }
